@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana;
+}
+
+.pvtRenderer {
+  visibility: hidden;
+}
+
+.pvtAggregator {
+  display: none;
+}
+
+.pvtVals {
+  visibility: hidden;
+}
+
+.axis_5 {
+  visibility: visible;
+}
+
+.pvtUnused {
+  background-color: white;
+  border-color: white;
+}
+
+.pvtTotal,
+.pvtTotalLabel,
+.pvtGrandTotal {
+  display: none;
+}
